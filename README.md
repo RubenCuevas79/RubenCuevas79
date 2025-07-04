@@ -15,4 +15,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rubencuevas79&show_icons=true&locale=en" alt="rubencuevas79" /></p>
 
-![](gif/gif/caballero.gif)
+![](gif/caballero.gif)
