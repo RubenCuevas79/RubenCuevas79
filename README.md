@@ -1,6 +1,6 @@
 <h1 align="center">
-</svg>
-<img hrf="https://www.pexels.com/es-es/foto/32828183/">Hi 👋, I'm Ruben</h1>
+
+💻Hi ✨, I'm Ruben</h1>
 <h3 align="center">soy una persona que no para de preguntar dudas</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rubencuevas79&label=Profile%20views&color=0e75b6&style=flat" alt="rubencuevas79" /> </p>
